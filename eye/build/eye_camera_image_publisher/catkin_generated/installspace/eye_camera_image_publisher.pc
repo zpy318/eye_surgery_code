@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/eye/install
+
+Name: eye_camera_image_publisher
+Description: Description of eye_camera_image_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+dl_control:no_rcm_keyboard_controller/no_rcm_key_move:no_rcm_keyboard_controller/no_rcm_key_publisher:no_rcm_keyboard_controller/no_rcm_key_publisher_msgs
+-DCATKIN_DEVEL_PREFIX=/home/peiyao/peiyao/no_rcm_keyboard_controller/devel -DCMAKE_INSTALL_PREFIX=/home/peiyao/peiyao/no_rcm_keyboard_controller/install -G Unix Makefiles

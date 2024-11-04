@@ -1,0 +1,1 @@
+/home/peiyao/peiyao/keyboard_controller/devel/.private/key_publisher_msgs/share/roseus/ros/key_publisher_msgs/manifest.l

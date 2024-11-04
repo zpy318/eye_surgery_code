@@ -1,0 +1,6 @@
+devel_space: /home/peiyao/peiyao/eye/devel
+install: false
+install_space: /home/peiyao/peiyao/eye/install
+profile: default
+source_space: /home/peiyao/peiyao/eye/src
+workspace: /home/peiyao/peiyao/eye

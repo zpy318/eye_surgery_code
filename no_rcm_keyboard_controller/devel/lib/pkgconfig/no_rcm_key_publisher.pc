@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/no_rcm_keyboard_controller/devel
+
+Name: no_rcm_key_publisher
+Description: Description of no_rcm_key_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

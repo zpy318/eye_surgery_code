@@ -1,0 +1,1 @@
+/home/peiyao/peiyao/eye/devel/.private/eye_camera_image_publisher/lib/pkgconfig/eye_camera_image_publisher.pc

@@ -1,0 +1,1 @@
+/home/peiyao/peiyao/keyboard_controller/devel/.private/key_move/lib/pkgconfig/key_move.pc

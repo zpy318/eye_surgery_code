@@ -1,0 +1,2 @@
+set(no_rcm_key_publisher_msgs_MESSAGE_FILES "/home/peiyao/peiyao/no_rcm_keyboard_controller/src/no_rcm_keyboard_controller/no_rcm_key_publisher_msgs/msg/no_rcm_key_publisher_msgs.msg")
+set(no_rcm_key_publisher_msgs_SERVICE_FILES "")

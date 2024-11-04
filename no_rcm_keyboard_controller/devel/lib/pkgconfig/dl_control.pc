@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/no_rcm_keyboard_controller/devel
+
+Name: dl_control
+Description: Description of dl_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

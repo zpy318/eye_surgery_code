@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/keyboard_controller/install
+
+Name: key_publisher
+Description: Description of key_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

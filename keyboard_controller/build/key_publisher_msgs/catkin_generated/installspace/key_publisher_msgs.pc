@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/keyboard_controller/install
+
+Name: key_publisher_msgs
+Description: Description of key_publisher_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

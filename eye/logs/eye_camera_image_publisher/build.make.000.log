@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target image_publisher[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/image_publisher.dir/src/visualize_pt_grey_camera.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/peiyao/peiyao/eye/devel/.private/eye_camera_image_publisher/lib/eye_camera_image_publisher/image_publisher[0m
+[100%] Built target image_publisher

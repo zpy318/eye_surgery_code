@@ -1,0 +1,8 @@
+prefix=/home/peiyao/peiyao/keyboard_controller/install
+
+Name: key_move
+Description: Description of key_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

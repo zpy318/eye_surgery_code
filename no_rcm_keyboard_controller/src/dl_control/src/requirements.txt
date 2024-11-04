@@ -1,0 +1,15 @@
+torch==1.8.1
+torchvision==0.9.1
+numpy==1.19.5
+opencv-python==4.5.1.48
+pillow==8.2.0
+scipy==1.6.2
+tqdm==4.60.0
+pyyaml==5.4.1
+requests==2.25.1
+gitpython==3.1.14
+matplotlib==3.4.1
+seaborn==0.11.1
+pandas==1.2.4
+cython==0.29.22
+pycocotools==2.0.2

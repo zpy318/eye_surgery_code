@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="eye_camera_image_publisher" name="eye_camera_launch" type="image_publisher"/>
+</launch>
